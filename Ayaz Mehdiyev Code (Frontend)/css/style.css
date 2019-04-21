@@ -100,6 +100,9 @@ a {
 .navbar .container .row div:nth-child(2)>ul>li:last-child .dropdownMenu{
     right: -15px;
 }
+.navbar>.container-fluid>.row>div:nth-child(1){
+    z-index: 999;
+}
 .dropdownMenu{
     margin: -2px 0px;
     display: none;
